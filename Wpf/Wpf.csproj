@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace></RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>$(AssemblyVersion)</FileVersion>
+    <Version>$(AssemblyVersion)</Version>
+    <Authors>RozhkovSvyat</Authors>
+    <Product>$(Authors).Tools</Product>
+    <Description>$(Product).Wpf</Description>
+    <PackageId>$(Description)</PackageId>
+    <Title>$(PackageId)</Title>
+    <PackageTags>rozhkovsvyat;tools;wpf;cmd</PackageTags>
+    <PackageProjectUrl>https://t.me/svyatseverskiy</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rozhkovsvyat/Tools.Wpf</RepositoryUrl>
+    <Copyright>© Rozhkov S. V., 2023</Copyright>
+    <PackageIcon>Wpf.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Wpf.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
