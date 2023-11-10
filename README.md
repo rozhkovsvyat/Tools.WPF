@@ -1,5 +1,5 @@
 # Tools.Wpf
-#v1.0.0 #net7.0.10
+#v1.0.1 #net7.0.10
 
 Wpf Application Development Toolkit
 
