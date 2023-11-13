@@ -1,7 +1,7 @@
 ﻿namespace System.Windows.Input;
 
 /// <summary>
-/// Command.
+/// Provides a command.
 /// </summary>
 public class Cmd : ICommand
 {
