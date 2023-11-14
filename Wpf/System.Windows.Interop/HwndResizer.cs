@@ -17,6 +17,6 @@ public class HwndResizer : HwndMessenger
 	/// Sends the resize message to the window.
 	/// </summary>
 	/// <param name="code">Resize direction code.</param>
-	private void Resize(HwndResizeCode? code) 
+	public void Resize(HwndResizeCode? code) 
 		=> Send(WmSysCmd, (IntPtr)code, IntPtr.Zero);
 }

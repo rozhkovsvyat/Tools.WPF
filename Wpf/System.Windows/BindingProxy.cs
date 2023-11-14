@@ -1,7 +1,7 @@
 ﻿namespace System.Windows;
 
 /// <summary>
-/// Provides a data binding proxy.	
+/// Provides the data binding proxy.	
 /// </summary>
 public class BindingProxy : Freezable
 {
