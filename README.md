@@ -1,10 +1,11 @@
 # Tools.Wpf
-#v1.0.5 #net7.0.10
+#v1.0.7 #net7.0.10
 
 Wpf Application Development Toolkit
 
 Contains:
 - HwndMessenger, HwndMessengerExtensions, HwndResizer (System.Windows.Interop)
+- BrushAnimation (System.Windows.Media.Animation)
 - PropertyChangedNotifier (System.ComponentModel)
 - Cmd, CmdExtensions (System.Windows.Controls)
 - DependencyBag (System.Windows.Data)
