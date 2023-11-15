@@ -8,6 +8,6 @@ Contains:
 - PassBox, StickyButton (System.Windows.Controls)
 - BrushAnimation (System.Windows.Media.Animation)
 - PropertyChangedNotifier (System.ComponentModel)
-- Cmd, CmdExtensions (System.Windows.Controls)
+- Cmd, CmdExtensions, CursorBag (System.Windows.Controls)
 - DependencyBag (System.Windows.Data)
 - BindingProxy (System.Windows)
