@@ -20,14 +20,11 @@
     <PackageProjectUrl>https://t.me/svyatseverskiy</PackageProjectUrl>
     <RepositoryUrl>https://github.com/rozhkovsvyat/Tools.Wpf</RepositoryUrl>
     <Copyright>© Rozhkov S. V., 2023</Copyright>
+    <PackageIcon>package.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Resource Include="package.png" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="package.png">
+    <None Include="..\.psd\package.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
