@@ -7,7 +7,7 @@ Wpf Application Development Toolkit
 
 ---
 
-<img align="right" src="https://github.com/rozhkovsvyat/Tools.RecipeFactory/assets/71471748/ba1a969f-e54f-46d5-8f7f-70aa6434e063">
+<img align="center" src="https://github.com/rozhkovsvyat/Tools.RecipeFactory/assets/71471748/ba1a969f-e54f-46d5-8f7f-70aa6434e063">
 
 ---
 
