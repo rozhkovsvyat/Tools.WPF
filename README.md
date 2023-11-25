@@ -12,16 +12,16 @@
 
 ### CONTENT
 
-* **HwndMessenger**, **HwndMessengerExtensions**, **HwndResizer** -- System.Windows.Interop
+* System.Windows.Interop -- **HwndMessenger**, **HwndMessengerExtensions**, **HwndResizer**
   
-* **PassBox**, **StickyButton** -- System.Windows.Controls
+* System.Windows.Controls -- **PassBox**, **StickyButton**
   
-* **BrushAnimation** -- System.Windows.Media.Animation
+* System.Windows.Media.Animation -- **BrushAnimation**
   
-* **PropertyChangedNotifier** -- System.ComponentModel
+* System.ComponentModel -- **PropertyChangedNotifier**
   
-* **Cmd**, **CmdExtensions**, **CursorBag** -- System.Windows.Controls
+* System.Windows.Controls -- **Cmd**, **CmdExtensions**, **CursorBag**
   
-* **DependencyBag** -- System.Windows.Data
+* System.Windows.Data -- **DependencyBag**
   
-* **BindingProxy** -- System.Windows
+* System.Windows -- **BindingProxy**
