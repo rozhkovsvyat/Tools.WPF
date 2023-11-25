@@ -11,14 +11,10 @@ WPF Application Development Toolkit
 ---
 
 ### System.Windows.Interop
-* HwndMessenger
-* HwndMessengerExtensions
-* HwndResizer
+* HwndMessenger, HwndMessengerExtensions, HwndResizer
 
 ### System.Windows.Controls
-* Cmd
-* CmdExtensions
-* CursorBag
+* Cmd, CmdExtensions, CursorBag
 
 ### System.Windows.Media.Animation
 * BrushAnimation
@@ -27,8 +23,7 @@ WPF Application Development Toolkit
 * PropertyChangedNotifier
 
 ### System.Windows.Controls
-* PassBox
-* StickyButton
+* PassBox, StickyButton
 
 ### System.Windows.Data
 * DependencyBag
