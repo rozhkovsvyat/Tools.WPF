@@ -13,9 +13,15 @@ Wpf Application Development Toolkit
 ### CONTENT
 
 * **HwndMessenger**, **HwndMessengerExtensions**, **HwndResizer** (System.Windows.Interop)
+  
 * **PassBox**, **StickyButton** (System.Windows.Controls)
+  
 * **BrushAnimation** (System.Windows.Media.Animation)
+  
 * **PropertyChangedNotifier** (System.ComponentModel)
+  
 * **Cmd**, **CmdExtensions**, **CursorBag** (System.Windows.Controls)
+  
 * **DependencyBag** (System.Windows.Data)
+  
 * **BindingProxy** (System.Windows)
