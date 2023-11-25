@@ -1,13 +1,12 @@
 # Tools.Wpf
 #v1.1.1 #net7.0.10
 
+<img align="right" src="https://github.com/rozhkovsvyat/Tools.RecipeFactory/assets/71471748/ba1a969f-e54f-46d5-8f7f-70aa6434e063">
+
 Wpf Application Development Toolkit
 
 > :eye_speech_bubble: https://www.nuget.org/packages/RozhkovSvyat.Tools.Wpf/
 
----
-
-<img align="center" src="https://github.com/rozhkovsvyat/Tools.RecipeFactory/assets/71471748/ba1a969f-e54f-46d5-8f7f-70aa6434e063">
 
 ---
 
