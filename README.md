@@ -10,8 +10,6 @@
 
 ---
 
-### CONTENT
-
 * **HwndMessenger**, **HwndMessengerExtensions**, **HwndResizer** (System.Windows.Interop)
 
 * **Cmd**, **CmdExtensions**, **CursorBag** (System.Windows.Controls)
