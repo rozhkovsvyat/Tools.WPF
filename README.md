@@ -13,15 +13,9 @@
 ### CONTENT
 
 * System.Windows.Interop -- HwndMessenger, HwndMessengerExtensions, HwndResizer
-
 * System.Windows.Controls -- Cmd, CmdExtensions, CursorBag
-  
 * System.Windows.Media.Animation -- BrushAnimation
-  
 * System.ComponentModel -- PropertyChangedNotifier
-
 * System.Windows.Controls -- PassBox, StickyButton
-  
 * System.Windows.Data -- DependencyBag
-  
 * System.Windows -- BindingProxy
