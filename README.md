@@ -9,7 +9,7 @@ Wpf Application Development Toolkit
 
 ---
 
-### CONTAINS
+### CONTENT
 
 * HwndMessenger, HwndMessengerExtensions, HwndResizer (System.Windows.Interop)
 * PassBox, StickyButton (System.Windows.Controls)
