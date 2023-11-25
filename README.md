@@ -10,8 +10,6 @@ WPF Application Development Toolkit
 
 ---
 
-### CONTENT
-
 * **System.Windows.Interop** / HwndMessenger, HwndMessengerExtensions, HwndResizer
 * **System.Windows.Controls** / Cmd, CmdExtensions, CursorBag
 * **System.Windows.Media.Animation** / BrushAnimation
