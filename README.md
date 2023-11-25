@@ -10,7 +10,7 @@
 
 ---
 
-### CONTENT
+### Content
 
 **System.Windows.Interop** -- HwndMessenger, HwndMessengerExtensions, HwndResizer
 
