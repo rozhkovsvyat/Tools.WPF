@@ -14,12 +14,12 @@
 
 * System.Windows.Controls: Cmd, CmdExtensions, CursorBag
   
-* BrushAnimation (System.Windows.Media.Animation)
+* System.Windows.Media.Animation: BrushAnimation
   
-* PropertyChangedNotifier (System.ComponentModel)
+* System.ComponentModel: PropertyChangedNotifier
 
-* PassBox, StickyButton (System.Windows.Controls)
+* System.Windows.Controls: PassBox, StickyButton
   
-* DependencyBag (System.Windows.Data)
+* System.Windows.Data: DependencyBag
   
-* BindingProxy (System.Windows)
+* System.Windows: BindingProxy
