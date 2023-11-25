@@ -10,9 +10,9 @@
 
 ---
 
-* HwndMessenger, HwndMessengerExtensions, HwndResizer (System.Windows.Interop)
+* System.Windows.Interop: HwndMessenger, HwndMessengerExtensions, HwndResizer
 
-* Cmd, CmdExtensions, CursorBag (System.Windows.Controls)
+* System.Windows.Controls: Cmd, CmdExtensions, CursorBag
   
 * BrushAnimation (System.Windows.Media.Animation)
   
