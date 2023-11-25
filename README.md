@@ -10,16 +10,16 @@
 
 ---
 
-* System.Windows.Interop: HwndMessenger, HwndMessengerExtensions, HwndResizer
+System.Windows.Interop: HwndMessenger, HwndMessengerExtensions, HwndResizer
 
-* System.Windows.Controls: Cmd, CmdExtensions, CursorBag
+System.Windows.Controls: Cmd, CmdExtensions, CursorBag
   
-* System.Windows.Media.Animation: BrushAnimation
+System.Windows.Media.Animation: BrushAnimation
   
-* System.ComponentModel: PropertyChangedNotifier
+System.ComponentModel: PropertyChangedNotifier
 
-* System.Windows.Controls: PassBox, StickyButton
+System.Windows.Controls: PassBox, StickyButton
   
-* System.Windows.Data: DependencyBag
+System.Windows.Data: DependencyBag
   
-* System.Windows: BindingProxy
+System.Windows: BindingProxy
