@@ -4,7 +4,7 @@
 
 **#v1.1.1 #net7.0.10**
 
-**Wpf Application Development Toolkit**
+Wpf Application Development Toolkit
 
 > :eye_speech_bubble: https://www.nuget.org/packages/RozhkovSvyat.Tools.Wpf/
 
