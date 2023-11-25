@@ -13,14 +13,14 @@
 ### CONTENT
 
 * **System.Windows.Interop** -- HwndMessenger, HwndMessengerExtensions, HwndResizer
+
+* **System.Windows.Controls** -- Cmd, CmdExtensions, CursorBag
   
 * **System.Windows.Controls** -- PassBox, StickyButton
   
 * **System.Windows.Media.Animation** -- BrushAnimation
   
 * **System.ComponentModel** -- PropertyChangedNotifier
-  
-* **System.Windows.Controls** -- Cmd, CmdExtensions, CursorBag
   
 * **System.Windows.Data** -- DependencyBag
   
